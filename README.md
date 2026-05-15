@@ -46,3 +46,4 @@ GetMyTax helps users compare the **Old** vs **New** tax regimes side-by-side, fi
 
 ## 📝 License
 This project is open-source and free to use.
+

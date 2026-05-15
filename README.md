@@ -1,8 +1,8 @@
-# TaxClarity — Indian Income Tax Calculator (FY 2025-26)
+# GetMyTax — Indian Income Tax Calculator (FY 2025-26)
 
 A clean, modern, and completely client-side single-page application for salaried Indians to calculate their income tax for FY 2025-26. 
 
-TaxClarity helps users compare the **Old** vs **New** tax regimes side-by-side, find out which one saves them more money, and see their TDS refund or payable status—all with zero jargon and completely securely.
+GetMyTax helps users compare the **Old** vs **New** tax regimes side-by-side, find out which one saves them more money, and see their TDS refund or payable status—all with zero jargon and completely securely.
 
 ## ✨ Features
 - **Side-by-Side Comparison**: Automatically calculates your tax liability under both Old and New regimes simultaneously.
